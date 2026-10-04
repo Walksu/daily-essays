@@ -12,9 +12,11 @@
 
 ## 最新 · Latest
 
-还没有条目。下一次入库会把当天放在这里，并写进年份文件。
+## 2026-10-03
 
-No entries yet. The next filing will sit here, and in the year file.
+- [I Quit OpenAI Because Its Culture Is Broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/)
+  - 中文：OpenAI 安全报告负责人 David Robinson 本人写的离职长文，谈安全文化，不是访谈。
+  - English: A resignation essay by OpenAI safety-reporting lead David Robinson himself, on safety culture, not an interview.
 
 ## 关于 · About
 
