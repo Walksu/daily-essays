@@ -12,11 +12,11 @@
 
 ## 最新 · Latest
 
-## 2026-10-03
+## 2026-10-04
 
-- [I Quit OpenAI Because Its Culture Is Broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/)
-  - 中文：OpenAI 安全报告负责人 David Robinson 本人写的离职长文，谈安全文化，不是访谈。
-  - English: A resignation essay by OpenAI safety-reporting lead David Robinson himself, on safety culture, not an interview.
+- [Default hard budget caps for metered agent-era services](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
+  - 中文：Simon Willison 主张 agent 时代按量计费的服务应该默认设硬预算上限。这是博客，不进访谈。
+  - English: Simon Willison argues metered services in the agent era should default to hard budget caps. A blog post, not an interview.
 
 ## 关于 · About
 
