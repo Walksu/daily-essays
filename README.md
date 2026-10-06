@@ -12,11 +12,12 @@
 
 ## 最新 · Latest
 
-## 2026-10-04
 
-- [Default hard budget caps for metered agent-era services](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
-  - 中文：Simon Willison 主张 agent 时代按量计费的服务应该默认设硬预算上限。这是博客，不进访谈。
-  - English: Simon Willison argues metered services in the agent era should default to hard budget caps. A blog post, not an interview.
+## 2026-10-06
+
+- [The Future of Mathematics — Jeremy Avigad](https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/)
+  - 中文：Jeremy Avigad《数学的未来》：数学家正面回应 AI 的冲击（客座文）。
+  - English: Jeremy Avigad’s guest essay The Future of Mathematics: a mathematician’s direct response to AI’s impact.
 
 ## 关于 · About
 
