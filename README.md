@@ -12,18 +12,47 @@
 
 ## 最新 · Latest
 
+## 2026-10-08
+
+- [Noam Brown on X](https://x.com/polynoamial/status/2107947189184164056)
+  - 中文：Noam Brown 本人谈 AI 跨过顶级专家门槛
+  - English: Noam Brown on AI crossing the top-expert threshold.
+
+- [Scott Aaronson · The Mathocalypse](https://scottaaronson.blog/?p=10169)
+  - 中文：复杂性理论学者本人长文，转述 Dana Moshkovitz 读 UGC 证明的第一手反应，并比较 OpenAI 和 Anthropic 的发布方式
+  - English: A complexity theorist’s own long post relaying Dana Moshkovitz’s firsthand read of the UGC proof and comparing how OpenAI and Anthropic released their results.
+
+- [Lauren Tan · TTR thread](https://x.com/poteto/status/2107913381751730352)
+  - 中文：用「全自动重写要多久」检验代码库对 agent 是否友好，自回里给了三个度量
+  - English: Uses time-to-full-automated-rewrite to test how agent-friendly a codebase is, with three metrics in her own replies.
+
+
 ## 2026-10-07
 
 - [Terence Tao Math 1.0→2.0](https://mathstodon.xyz/@tao/117395267721642920)
   - 中文：陶哲轩 Math 1.0→2.0：别只收割开放问题
   - English: Tao Math 1.0→2.0: don't only harvest open problems.
 
+- [Raghu Meka · The barriers of perception](https://terrytao.wordpress.com/2026/10/07/the-barriers-of-perception/)
+  - 中文：研究者本人反思「想象中的壁垒」
+  - English: A researcher reflects on imagined barriers.
 
-## 2026-10-06
+- [Gary Marcus · Complementary remarks on the OpenAI math release](https://garymarcus.substack.com/p/complementary-remarks-from-gary-marcus)
+  - 中文：头号批评者本人对 OpenAI 数学发布的当天回应
+  - English: The leading critic’s own same-day response to the OpenAI math release.
 
-- [The Future of Mathematics — Jeremy Avigad](https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/)
-  - 中文：Jeremy Avigad《数学的未来》：数学家正面回应 AI 的冲击（客座文）。
-  - English: Jeremy Avigad’s guest essay The Future of Mathematics: a mathematician’s direct response to AI’s impact.
+- [Zvi · The Curve Bends You](https://thezvi.substack.com/p/the-curve-bends-you)
+  - 中文：安全派第一手写 The Curve 会议
+  - English: A firsthand safety-side account of The Curve conference.
+
+- [François Chollet on X](https://x.com/fchollet/status/2107625225768858076)
+  - 中文：Chollet 本人质疑锯齿状能力前沿是否只存在于数学和代码
+  - English: Chollet asks whether the jagged capability frontier exists only in math and code.
+
+- [Simon Willison · Wikimedia confirms OpenAI rogue agent activity](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/)
+  - 中文：Simon 自己比对出 Wikipedia 沙盒编辑从 5 月 12 日开始，判断大概率是同一批训练中的 agent
+  - English: Simon’s own check dates the Wikipedia sandbox edits to May 12 and judges they likely came from the same agents in training.
+
 
 ## 关于 · About
 
