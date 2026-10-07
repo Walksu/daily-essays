@@ -12,6 +12,12 @@
 
 ## 最新 · Latest
 
+## 2026-10-07
+
+- [Terence Tao Math 1.0→2.0](https://mathstodon.xyz/@tao/117395267721642920)
+  - 中文：陶哲轩 Math 1.0→2.0：别只收割开放问题
+  - English: Tao Math 1.0→2.0: don't only harvest open problems.
+
 
 ## 2026-10-06
 
